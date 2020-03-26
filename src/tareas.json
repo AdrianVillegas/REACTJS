@@ -1,0 +1,13 @@
+{
+    "tareas": [
+        {
+            "title": "Tarea de Ejemplo",
+            "responsible": "admin",
+            "description": "Tarea de ejemplo",
+            "priority": "media",
+            "duracion": "2:00:00",
+            "horas": "01",
+            "minutos":"30"
+        }
+    ]
+}
